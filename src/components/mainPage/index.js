@@ -4,6 +4,7 @@ import Myfooter from '../footer'
 import Myheader from '../header'
 import Myabout from './about'
 import Mynavbar from '../navbar'
+
 const index = () => {
     return (
         <div>
