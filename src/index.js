@@ -18,6 +18,7 @@ root.render(
   <BrowserRouter>
     <Routes>
       <Route path="/" element={<MainPage />} />
+      <Route path='/' element={<about />} />
     </Routes>
   </BrowserRouter>
 </React.StrictMode>
